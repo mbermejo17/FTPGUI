@@ -21,6 +21,7 @@
     "url": "https://github.com/mbermejo17/FTPGUI/issues"
   },
   "dependencies": {
-    "ftp": "~0.3.10"
+    "ftp": "~0.3.10",
+    "formidable": "~1.0.17"
   }
 }
